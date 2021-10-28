@@ -4,6 +4,5 @@ public static void main(String[] args)
 {
 System.out.println("Hello Good Morning");
 System.out.println("Newly added");
-System.out.println("Added on 28/10/2021");
 }
 }
